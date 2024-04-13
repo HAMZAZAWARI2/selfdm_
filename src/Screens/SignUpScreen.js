@@ -156,3 +156,4 @@ const styles = StyleSheet.create({
     color: "#666",
   },
 });
+// Update %c to src/Screens/SignUpScreen.js by contributor
